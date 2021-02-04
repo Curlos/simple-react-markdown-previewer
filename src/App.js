@@ -1,6 +1,5 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import marked from 'marked';
-import { Markup } from 'interweave';
 import './App.css';
 
 const App = () => {
